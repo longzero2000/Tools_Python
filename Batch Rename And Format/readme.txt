@@ -9,6 +9,7 @@ Cây thư mục có dạng:
 + Nên để những file có cùng định dạng chung như image(png, jpg,...) vào cùng thư mục.
 + Những file sau xử lý sẽ không thể hoàn nguyên vì vậy nên backup lại để tránh sai sót.
 + Đổi tên file sẽ tạo ra file tương ứng với "tên + số"
++ Tên file muốn đổi không được để dạng số
 --------------------------------------------------------------------------------------------
 Tool to rename and change file formats in batch
 Some note:
@@ -21,3 +22,4 @@ The directory tree has the form:
 + Should put files with the same general format as image(png, jpg,...) in the same folder.
 + The files after processing will not be reverted, so back up to avoid errors.
 + Renaming the file will create a file corresponding to "name + number"
++ The file name you want to change cannot be numeric
